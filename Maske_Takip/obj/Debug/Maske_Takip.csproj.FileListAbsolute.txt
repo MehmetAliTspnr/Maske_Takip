@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Maske_Takip\Maske_Takip\bin\Debug\Maske_Takip.exe.config
+C:\Users\ASUS\source\repos\Maske_Takip\Maske_Takip\bin\Debug\Maske_Takip.exe
+C:\Users\ASUS\source\repos\Maske_Takip\Maske_Takip\bin\Debug\Maske_Takip.pdb
+C:\Users\ASUS\source\repos\Maske_Takip\Maske_Takip\obj\Debug\Maske_Takip.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Maske_Takip\Maske_Takip\obj\Debug\Maske_Takip.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Maske_Takip\Maske_Takip\obj\Debug\Maske_Takip.exe
+C:\Users\ASUS\source\repos\Maske_Takip\Maske_Takip\obj\Debug\Maske_Takip.pdb
